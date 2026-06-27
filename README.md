@@ -12,9 +12,7 @@ A Computer Vision project using Python, OpenCV, and MediaPipe to play Rock, Pape
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/rock-paper-scissors.git](https://github.com/yourusername/rock-paper-scissors.git)
-   cd rock-paper-scissors
-
+   git clone https://github.com/hmidgg/paper_scissor_rock.git
     Install the required dependencies:
     Bash
 
